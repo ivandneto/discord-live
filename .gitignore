@@ -8,3 +8,4 @@ src-tauri/gen/
 # Ferramentas locais (não vão para o GitHub)
 CLAUDE.md
 .claude/
+instalador/
