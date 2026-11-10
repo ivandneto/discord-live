@@ -1,0 +1,10 @@
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/gen/
+*.log
+.playwright-mcp/
+
+# Ferramentas locais (não vão para o GitHub)
+CLAUDE.md
+.claude/
