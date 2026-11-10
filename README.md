@@ -77,4 +77,4 @@ janela de abertura, as regras de rota e o uso do proxy automático do Windows.
 
 ## Licença
 
-[MIT](LICENSE)
+[MIT](LICENSE). Avisos de terceiros em [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
